@@ -38,3 +38,63 @@ and install it with:
 ```
 pip install torch
 ```
+
+## Windows Subsystem for Linux
+
+### Can I get a graphical interface to my WSL instance?
+
+Connecting graphically to the WSL instance requires some work but should be straightforward for an experienced Linux user, and a valuable learning process for a Linux beginner. You are aiming to set up a remote desktop connection to WSL, the Windows end of which should be the same as connecting to an Azure Labs VM or other remote system, except that the connection is all local.
+
+Assuming you're using Ubuntu as your WSL instance (methods should be similar for other Linux distributions, but package names and configuration file locations may differ - please submit a PR to update this FAQ if you have documented the process for another distribution!) you need to get a clean install of xdrp (the RDP server) and install a graphical desktop environment (I'll use xfce4 as a lightweight example, but you may prefer a heavier example such as Gnome).
+
+To clean and then install the required (and other useful) packages, run:
+
+```
+sudo apt-get install xrdp
+sudo apt-get install xfce4
+sudo apt-get install xfce4-goodies
+```
+
+You now need to change the xrdp port to avoid clashes with Windows services, and configure the colour depth, using:
+
+```
+sudo cp /etc/xrdp/xrdp.ini /etc/xrdp/xrdp.ini.bak
+sudo sed -i 's/3389/3390/g' /etc/xrdp/xrdp.ini
+sudo sed -i 's/max_bpp=32/#max_bpp=32\nmax_bpp=128/g' /etc/xrdp/xrdp.ini
+sudo sed -i 's/xserverbpp=24/#xserverbpp=24\nxserverbpp=128/g' /etc/xrdp/xrdp.ini
+```
+
+Enable xfce4 as your default session with:
+
+```
+echo xfce4-session > ~/.xsession
+```
+
+Now you need to edit the xdrp startup file, suggested to use nano with:
+
+```
+sudo nano /etc/xrdp/startwm.sh
+```
+
+Find the following lines and add comments at the beginning (they will by default be uncommented):
+
+```
+#test -x /etc/X11/Xsession && exec /etc/X11/Xsession
+#exec /bin/sh /etc/X11/Xsession
+```
+
+Add the following new lines:
+
+```
+# xfce
+startxfce4
+```
+
+Now start xdrp with:
+
+```
+sudo /etc/init.d/xrdp start
+```
+
+You can now run the Remote Desktop Connection app on Windows, connecting to localhost:3390 and authenticating with the username and password you supplied when you installed your WSL Linux instance.
+
