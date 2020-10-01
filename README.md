@@ -4,6 +4,7 @@
 ### Index of subtopics
 
 * [Azure Labs](azureLabs.md)
+* [Software](software.md)
 
 
 ### Lectures
