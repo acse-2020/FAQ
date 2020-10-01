@@ -98,3 +98,9 @@ sudo /etc/init.d/xrdp start
 
 You can now run the Remote Desktop Connection app on Windows, connecting to localhost:3390 and authenticating with the username and password you supplied when you installed your WSL Linux instance.
 
+## Docker
+
+### I've installed Docker; now what do I do?
+
+Try starting out with the [Docker 101 tutorial](https://www.docker.com/101-tutorial).
+
