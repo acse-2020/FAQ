@@ -4,6 +4,7 @@
 ### Index of subtopics
 
 * [Azure Labs](azureLabs.md)
+* [Git](git.md)
 
 
 ### Lectures
