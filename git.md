@@ -15,5 +15,5 @@ applies changes automatically? If so, try checking out the
 repository somewhere else and see if it fixes the problem.
 
 In general there is no need to have git repositories under
-cloud management - if you are committing and pushing regularly
+cloud management - if you are committing and pushing regularly,
 git's distributed nature should be more than sufficient backup.
