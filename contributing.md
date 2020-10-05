@@ -92,7 +92,7 @@ of the FAQ.
 
 ## Why is github saying checks have failed on my pull request?
 
-When a pull request is opened or updated, [GitHub Actions](https://github.com/features/actions) runs 
+When a pull request is opened or updated, [GitHub Actions](https://github.com/features/actions) runs
 a check to ensure that there are no markdown errors present. This is referred to as [linting](https://en.wikipedia.org/wiki/Lint_(software)https://en.wikipedia.org/wiki/Lint_(software))
 and uses [markdownlint](https://github.com/DavidAnson/markdownlint).
 
