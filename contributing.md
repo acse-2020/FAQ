@@ -25,7 +25,7 @@ call your branch **zq8653/VisualStudioCodeExtensions**
 
 To edit the FAQ, you can either use the web interface at github.com to edit and commit changes
 to files, or you can check out the FAQ repository to your local computer, make and commit your
-changes, and push them back to github.com. 
+changes, and push them back to github.com.
 
 You are encouraged to [use the git book as a reference](https://git-scm.com/book/en/v2) if you
 opt for the second method. Whilst it involves more work for you, it is a very important skill
@@ -50,13 +50,13 @@ answer has been contributed.
 You can add your voice to the pull request by commenting on the pull request or by adding a commit
 to the branch that the pull request has been opened from.
 
-Comments on the pull request are a good way to contribute if you have ideas for how the question might 
+Comments on the pull request are a good way to contribute if you have ideas for how the question might
 be answered but don't feel you are in a position to actually contribute an answer. Perhaps you have
 insights into the environment which has led to the question being asked, or have a partial answer
 and want input from others to develop it into a full answer.
 
 If you are ready to write an answer to a question, you can do so as a commit to the branch that the
-question has been asked and pull requested from. You are strongly encouraged to commit answers to 
+question has been asked and pull requested from. You are strongly encouraged to commit answers to
 questions even if you only know part of an answer - when everyone contributes their knowledge, the
 community benefits and gets stronger. It is also a great way to practise your use of git and github
 and learn about repository and software management techniques.
@@ -79,7 +79,7 @@ question, or were asked to comment on the answer, please look at the changes pro
 request (see the 'files changed' tab on the pull request page at github.com), read them carefully,
 and add comments to the discussion thread for the pull request.
 
-If you have specific changes you'd like to be made, either add them as commits directly to the 
+If you have specific changes you'd like to be made, either add them as commits directly to the
 branch that the pull request has been opened from, or describe the changes in your comments.
 
 When reviewers are happy that the answer is complete and correct, they should 'approve' the pull
@@ -94,4 +94,3 @@ you can do this by opening a new pull request into the main branch of the FAQ re
 If the branch that the question was originally asked from is still active, you could edit it with
 your proposed changes and open a new pull request from it. If the branch no longer exists, you will
 need to create a new branch, following the same process described above for adding a new question.
-
