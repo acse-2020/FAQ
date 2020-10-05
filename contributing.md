@@ -6,7 +6,7 @@ useful external resources.
 
 If this is the first time you have either used git or opened a pull request into a repository,
 congratulations - you are learning a critical software carpentry skill! Do not worry about getting
-things wrong or making mistakes if you are not experienced in this process. That is one of the 
+things wrong or making mistakes if you are not experienced in this process. That is one of the
 reasons we use github for this FAQ, to give everyone a chance to work with pull requests in an
 environment where support is proactively available and any confusions or mistakes are regarded as
 learning opportunities.
@@ -16,8 +16,7 @@ learning opportunities.
 To add a question, create a branch, edit the FAQ to add your question, then open a draft pull
 request from your branch into the 'main' branch.
 
-The steps involved in creating a branch and opening a pull request are [documented in detail at docs.github.com]
-(https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/proposing-changes-to-your-work-with-pull-requests).
+The steps involved in creating a branch and opening a pull request are [documented in detail at docs.github.com](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/proposing-changes-to-your-work-with-pull-requests).
 
 When creating a new branch, use the form '<username>/<description>' where <username> is your
 github username, and <description> is a brief summary of your question. For example, if your 
