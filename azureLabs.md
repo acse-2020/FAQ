@@ -4,7 +4,7 @@
 
 ### What is Azure Labs?
 
-See https://acse-2020.github.io/introduction/labs/intro.html
+See [the introduction to Azure Labs page](https://acse-2020.github.io/introduction/labs/intro.html).
 
 ## Registration questions
 
