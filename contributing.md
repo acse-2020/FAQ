@@ -37,8 +37,12 @@ not have an answer, and want others to help you find an answer, open your pull r
 pull request. If you have both a question and a proposed answer that you are ready for reviewers
 to read and comment on, open the pull request as ready for review.
 
-If you want to be actively involved with managing and reviewing your pull request, you are encouraged
-to add yourself as a reviewer on the upper right hand side of your pull request page on github.com.
+If you want to be actively involved with managing your pull request, you are encouraged (but not
+required) to 'assign' it to yourself on the upper right hand side of your pull request page on
+github.com. You can also request reviewers at this point, in particular if you are both asking
+a question and suggesting an answer. Reviewers should be people who have not been actively
+involved with writing the question or answer so they can give impartial advice and commentary.
+
 
 ## Answering open questions
 
@@ -67,17 +71,20 @@ commit.
 
 Once a question has a proposed full answer and is ready for review, the pull request can be changed from
 draft to 'ready for review'. You can also assign specific reviewers if you want to, or have been asked
-to, from the 'reviewers' box on the upper right side of your pull request page on github.com.
+to, from the 'reviewers' box on the upper right side of your pull request page on github.com. Reviewers
+should be people who did not write the question or answer, so they can give impartial advice and commentary
+on the suggested content.
 
 ## Reviewing answers to a question
 
 Once a question has an answer proposed, it should be marked as 'ready for review', and can be seen
 [in this list of open, ready for review pull requests](https://github.com/acse-2020/FAQ/pulls?q=is%3Apr+is%3Aopen+draft%3Afalse).
 
-If you are listed as a reviewer for a question, either because you asked the question, had a similar
-question, or were asked to comment on the answer, please look at the changes proposed in the pull
+If you are listed as a reviewer for a question please look at the changes proposed in the pull
 request (see the 'files changed' tab on the pull request page at github.com), read them carefully,
-and add comments to the discussion thread for the pull request.
+and add comments to the discussion thread for the pull request. These changes shouldn't contain
+any material that you have written yourself; if they do, you need to add an independent reviewer
+who can review content you've created.
 
 If you have specific changes you'd like to be made, either add them as commits directly to the
 branch that the pull request has been opened from, or describe the changes in your comments.
