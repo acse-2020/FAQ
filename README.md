@@ -3,7 +3,7 @@
 
 ### Index of subtopics
 
-* [Azure Labs](azureLabs.md)
+- [Azure Labs](azureLabs.md)
 
 
 ### Lectures
