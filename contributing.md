@@ -79,11 +79,17 @@ to, from the 'reviewers' box on the upper right side of your pull request page o
 Once a question has an answer proposed, it should be marked as 'ready for review', and can be seen
 [in this list of open, ready for review pull requests](https://github.com/acse-2020/FAQ/pulls?q=is%3Apr+is%3Aopen+draft%3Afalse).
 
-
-
 If you are listed as a reviewer for a question, either because you asked the question, had a similar
-question, or were asked to comment on the answer, please add your voice to the comments and when you
-are happy for the question to be committed to the main FAQ, add your approval.
+question, or were asked to comment on the answer, please look at the changes proposed in the pull
+request (see the 'files changed' tab on the pull request page at github.com), read them carefully,
+and add comments to the discussion thread for the pull request.
+
+If you have specific changes you'd like to be made, either add them as commits directly to the 
+branch that the pull request has been opened from, or describe the changes in your comments.
+
+When reviewers are happy that the answer is complete and correct, they should 'approve' the pull
+request to indicate that they are ready for the question and answer to be added to the main branch
+of the FAQ.
 
 ## Modifying an existing answer
 
