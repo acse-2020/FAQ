@@ -11,19 +11,32 @@ reasons we use github for this FAQ, to give everyone a chance to work with pull 
 environment where support is proactively available and any confusions or mistakes are regarded as
 learning opportunities.
 
-Here's a useful guide on [how to fork a repository and manage a pull request](https://linuxhint.com/pull_request_github/).
+## Adding a question
 
-You are encouraged to [use the git book as a reference](https://git-scm.com/book/en/v2).
+To add a question, create a branch, edit the FAQ to add your question, then open a draft pull
+request from your branch into the 'main' branch.
 
-## Asking a question
+The steps involved in creating a branch and opening a pull request are [documented in detail at docs.github.com]
+(https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/proposing-changes-to-your-work-with-pull-requests).
 
-To ask a question, open a pull request into this repository with your question.
+To edit the FAQ, you can either use the web interface at github.com to edit and commit changes
+to files, or you can check out the FAQ repository to your local computer, make and commit your
+changes, and push them back to github.com. 
 
-### Forking the FAQ repository
+You are encouraged to [use the git book as a reference](https://git-scm.com/book/en/v2) if you 
+opt for the second method. Whilst it involves more work for you, it is a very important skill
+to become proficient at for the ACSE course, and this is an ideal opportunity to learn in a
+supported environment.
 
-To ask a question, you will need to have a base branch to open a pull request from. 
+When you ask your question you may or may not already have an answer to the question. If you do
+not have an answer, and want others to help you find an answer, open your pull request as a draft
+pull request. If you have both a question and a proposed answer that you are ready for reviewers
+to read and comment on, open the pull request as ready for review.
 
 ## Answering open questions
+
+Take a look at the [list of open pull requests](https://github.com/acse-2020/FAQ/pulls) to see which
+questions have been asked and are awaiting answers.
 
 To offer an answer to an open question, you are encouraged to either add comments to the
 conversation of the relevant pull request, or open your own pull request into the branch containing
