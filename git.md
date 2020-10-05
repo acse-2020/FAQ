@@ -7,6 +7,9 @@ but is primarily intended to answer more ACSE course specific
 questions around git use and git interaction with other course
 software.
 
+You may also find it useful to refer to the [github.com documentation
+(https://docs.github.com/en).
+
 ## My local git repository keeps changing unexpectedly
 
 Are you working with your local repository inside a folder
@@ -16,4 +19,4 @@ repository somewhere else and see if it fixes the problem.
 
 In general there is no need to have git repositories under
 cloud management - if you are committing and pushing regularly,
-git's distributed nature should be more than sufficient backup.
+git's distributed nature should be more than sufficient backup
