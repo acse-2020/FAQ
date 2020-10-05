@@ -43,7 +43,6 @@ github.com. You can also request reviewers at this point, in particular if you a
 a question and suggesting an answer. Reviewers should be people who have not been actively
 involved with writing the question or answer so they can give impartial advice and commentary.
 
-
 ## Answering open questions
 
 Open the [list of open, draft pull requests](https://github.com/acse-2020/FAQ/pulls?q=is%3Apr+is%3Aopen+draft%3Atrue).
