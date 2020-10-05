@@ -35,12 +35,31 @@ to read and comment on, open the pull request as ready for review.
 
 ## Answering open questions
 
-Take a look at the [list of open pull requests](https://github.com/acse-2020/FAQ/pulls) to see which
-questions have been asked and are awaiting answers.
+Open the [list of open, draft pull requests](https://github.com/acse-2020/FAQ/pulls?q=is%3Apr+is%3Aopen+is%3Adraft).
 
-To offer an answer to an open question, you are encouraged to either add comments to the
-conversation of the relevant pull request, or open your own pull request into the branch containing
-the question.
+Draft pull requests are waiting to be answered, and will be changed to 'ready for review' when an
+answer has been contributed.
+
+You can add your voice to the pull request by commenting on the pull request or by adding a commit
+to the branch that the pull request has been opened from.
+
+Comments on the pull request are a good way to contribute if you have ideas for how the question might 
+be answered but don't feel you are in a position to actually contribute an answer. Perhaps you have
+insights into the environment which has led to the question being asked, or have a partial answer
+and want input from others to develop it into a full answer.
+
+If you are ready to write an answer to a question, you can do so as a commit to the branch that the
+question has been asked and pull requested from. You are strongly encouraged to commit answers to 
+questions even if you only know part of an answer - when everyone contributes their knowledge, the
+community benefits and gets stronger. It is also a great way to practise your use of git and github
+and learn about repository and software management techniques.
+
+If you commit an answer or part of an answer you are encouraged to describe your input in the commit
+message but can also use the pull request comments thread if you want to add comments outside of the
+commit.
+
+Once a question has a proposed full answer and is ready for review, the pull request can be changed from
+draft to 'ready for review'.
 
 ## Reviewing answers to a question
 
