@@ -6,5 +6,7 @@
     "blanks-around-headings": false,
     "html": false,
     "first-line-h1": false,
-    “MD026”: { “punctuation”: “.,;:!”}
+    "MD026": {
+      "punctuation": ".,;:!"
+    }
 }
