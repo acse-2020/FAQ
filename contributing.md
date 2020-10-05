@@ -82,9 +82,23 @@ and add comments to the discussion thread for the pull request.
 If you have specific changes you'd like to be made, either add them as commits directly to the
 branch that the pull request has been opened from, or describe the changes in your comments.
 
+As part of the review process, please do your best to check that the answer provided is correct
+markdown (see the next question for details on how github helps check this), and is understandable
+in terms of spelling, grammar, and the level of technical detail.
+
 When reviewers are happy that the answer is complete and correct, they should 'approve' the pull
 request to indicate that they are ready for the question and answer to be added to the main branch
 of the FAQ.
+
+## Why is github saying checks have failed on my pull request?
+
+When a pull request is opened or updated, [GitHub Actions](https://github.com/features/actions) runs 
+a check to ensure that there are no markdown errors present. This is referred to as [linting](https://en.wikipedia.org/wiki/Lint_(software)https://en.wikipedia.org/wiki/Lint_(software))
+and uses [markdownlint](https://github.com/DavidAnson/markdownlint).
+
+This kind of regular, automated checking of merges into a main branch is referred to as
+[continuous integration (CI)](https://en.wikipedia.org/wiki/Continuous_integration) and will
+be covered in detail during the ACSE course.
 
 ## Modifying an existing answer
 
