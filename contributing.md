@@ -35,7 +35,7 @@ to read and comment on, open the pull request as ready for review.
 
 ## Answering open questions
 
-Open the [list of open, draft pull requests](https://github.com/acse-2020/FAQ/pulls?q=is%3Apr+is%3Aopen+is%3Adraft).
+Open the [list of open, draft pull requests](https://github.com/acse-2020/FAQ/pulls?q=is%3Apr+is%3Aopen+draft%3Atrue).
 
 Draft pull requests are waiting to be answered, and will be changed to 'ready for review' when an
 answer has been contributed.
@@ -62,6 +62,9 @@ Once a question has a proposed full answer and is ready for review, the pull req
 draft to 'ready for review'.
 
 ## Reviewing answers to a question
+
+Once a question has an answer proposed, it should be marked as 'ready for review', and can be seen
+[in this list](https://github.com/acse-2020/FAQ/pulls?q=is%3Apr+is%3Aopen+draft%3Afalse).
 
 If you are listed as a reviewer for a question, either because you asked the question, had a similar
 question, or were asked to comment on the answer, please add your voice to the comments and when you
