@@ -5,6 +5,7 @@
 
 - [Azure Labs](azureLabs.md)
 - [Git](git.md)
+- [Software](software.md)
 
 ### Lectures
 
