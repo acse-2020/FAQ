@@ -7,7 +7,7 @@
 
 ### Contributing to this FAQ
 
-For guidance on contributing to this FAQ, please [read the contributions page](contributing.md)
+For guidance on contributing to this FAQ, please [read the contributions page](CONTRIBUTING.md)
 
 ### Lectures
 
