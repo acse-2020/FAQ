@@ -6,6 +6,10 @@
 - [Azure Labs](azureLabs.md)
 - [Software](software.md)
 
+### Contributing to this FAQ
+
+For guidance on contributing to this FAQ, please [read the contributions page](CONTRIBUTING.md)
+
 ### Lectures
 
 #### How do I access lecture material?
