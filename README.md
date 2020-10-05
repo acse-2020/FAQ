@@ -5,6 +5,10 @@
 
 * [Azure Labs](azureLabs.md)
 
+### Contributing to this FAQ
+
+For guidance on contributing to this FAQ, please [read the contributions page](contributing.md)
+
 
 ### Lectures
 
