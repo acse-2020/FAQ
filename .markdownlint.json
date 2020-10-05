@@ -1,0 +1,9 @@
+{
+    "default": true,
+    "ul-style": { "style": "dash" },
+    "ul-indent": { "indent": 2 },
+    "line-length": false,
+    "blanks-around-headings": false,
+    "html": false,
+    "first-line-h1": false
+}
