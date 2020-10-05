@@ -33,6 +33,9 @@ not have an answer, and want others to help you find an answer, open your pull r
 pull request. If you have both a question and a proposed answer that you are ready for reviewers
 to read and comment on, open the pull request as ready for review.
 
+If you want to be actively involved with managing and reviewing your pull request, you are encouraged
+to add yourself as a reviewer on the upper right hand side of your pull request page on github.com.
+
 ## Answering open questions
 
 Open the [list of open, draft pull requests](https://github.com/acse-2020/FAQ/pulls?q=is%3Apr+is%3Aopen+draft%3Atrue).
@@ -59,12 +62,15 @@ message but can also use the pull request comments thread if you want to add com
 commit.
 
 Once a question has a proposed full answer and is ready for review, the pull request can be changed from
-draft to 'ready for review'.
+draft to 'ready for review'. You can also assign specific reviewers if you want to, or have been asked
+to, from the 'reviewers' box on the upper right side of your pull request page on github.com.
 
 ## Reviewing answers to a question
 
 Once a question has an answer proposed, it should be marked as 'ready for review', and can be seen
-[in this list](https://github.com/acse-2020/FAQ/pulls?q=is%3Apr+is%3Aopen+draft%3Afalse).
+[in this list of open, ready for review pull requests](https://github.com/acse-2020/FAQ/pulls?q=is%3Apr+is%3Aopen+draft%3Afalse).
+
+
 
 If you are listed as a reviewer for a question, either because you asked the question, had a similar
 question, or were asked to comment on the answer, please add your voice to the comments and when you
