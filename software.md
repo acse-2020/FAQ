@@ -76,6 +76,8 @@ Now you need to edit the xdrp startup file, suggested to use nano with:
 sudo nano /etc/xrdp/startwm.sh
 ```
 
+To quit nano, use 'ctrl-x' to start the exit process, type 'y' to save changes, and press 'enter' to accept the default filename.
+
 Find the following lines and add comments at the beginning (they will by default be uncommented):
 
 ```bash
