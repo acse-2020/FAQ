@@ -4,7 +4,7 @@
 
 ### What is Azure Labs?
 
-See https://acse-2020.github.io/introduction/labs/intro.html
+See [the introduction to Azure Labs page](https://acse-2020.github.io/introduction/labs/intro.html).
 
 ## Registration questions
 
@@ -40,7 +40,7 @@ a level which should allow all course work to be completed, with some allowance 
 
 Quotas are also set to teach good practise with cloud resources. Many students on the course
 will not have backgrounds in cloud computing and learning about the costs and economic risks
-of cloud use in a safe, training environment where mistakes have minimal consequences is a 
+of cloud use in a safe, training environment where mistakes have minimal consequences is a
 very good preparation for going into industry where a mistake could incur very serious financial
 costs.
 
@@ -48,7 +48,7 @@ costs.
 
 Contact the module tutors with a request for more hours to be allocated to your account. You
 should request a specific number of hours, details of why you need additional hours, and some
-accounting of what you have used your initial quota for. 
+accounting of what you have used your initial quota for.
 
 ### I forgot to shut down my labs machine and ran down my hours by mistake. What should I say?
 

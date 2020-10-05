@@ -3,12 +3,10 @@
 
 ### Index of subtopics
 
-* [Azure Labs](azureLabs.md)
-* [Software](software.md)
-
+- [Azure Labs](azureLabs.md)
+- [Software](software.md)
 
 ### Lectures
-
 
 #### How do I access lecture material?
 
