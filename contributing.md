@@ -94,4 +94,9 @@ of the FAQ.
 ## Modifying an existing answer
 
 If you want to modify an existing answer, perhaps correcting a mistake or adding more information,
-open a new pull request.
+you can do this by opening a new pull request into the main branch of the FAQ repository.
+
+If the branch that the question was originally asked from is still active, you could edit it with
+your proposed changes and open a new pull request from it. If the branch no longer exists, you will
+need to create a new branch, following the same process described above for adding a new question.
+
