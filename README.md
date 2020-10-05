@@ -3,15 +3,13 @@
 
 ### Index of subtopics
 
-* [Azure Labs](azureLabs.md)
+- [Azure Labs](azureLabs.md)
 
 ### Contributing to this FAQ
 
 For guidance on contributing to this FAQ, please [read the contributions page](contributing.md)
 
-
 ### Lectures
-
 
 #### How do I access lecture material?
 
