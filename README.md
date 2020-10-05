@@ -3,12 +3,10 @@
 
 ### Index of subtopics
 
-* [Azure Labs](azureLabs.md)
-* [Git](git.md)
-
+- [Azure Labs](azureLabs.md)
+- [Git](git.md)
 
 ### Lectures
-
 
 #### How do I access lecture material?
 
