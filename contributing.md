@@ -19,6 +19,15 @@ request from your branch into the 'main' branch.
 The steps involved in creating a branch and opening a pull request are [documented in detail at docs.github.com]
 (https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/proposing-changes-to-your-work-with-pull-requests).
 
+When creating a new branch, use the form '<username>/<description>' where <username> is your
+github username, and <description> is a brief summary of your question. For example, if your 
+username is 'zq8653' and your question is regarding extensions in Visual Studio Code you might
+call your branch:
+  
+```
+zq8653/VisualStudioCodeExtensions
+```
+
 To edit the FAQ, you can either use the web interface at github.com to edit and commit changes
 to files, or you can check out the FAQ repository to your local computer, make and commit your
 changes, and push them back to github.com. 
