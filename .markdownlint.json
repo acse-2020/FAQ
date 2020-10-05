@@ -5,5 +5,8 @@
     "line-length": false,
     "blanks-around-headings": false,
     "html": false,
-    "first-line-h1": false
+    "first-line-h1": false,
+    "MD026": {
+      "punctuation": ".,;:!"
+    }
 }
